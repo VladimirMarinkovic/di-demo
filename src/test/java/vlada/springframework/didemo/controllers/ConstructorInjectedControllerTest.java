@@ -3,7 +3,7 @@ package vlada.springframework.didemo.controllers;
 import org.junit.Before;
 import org.junit.Test;
 import vlada.springframework.didemo.services.GreetingServiceImpl;
-
+//test
 import static org.junit.Assert.assertEquals;
 
 public class ConstructorInjectedControllerTest {
